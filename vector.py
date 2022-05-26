@@ -13,4 +13,3 @@ class Vector:
     def sumation(self, vec1):
         vec = Vector.lenth(self)
         return [vec[0] + vec1[0], vec[1] + vec1[1]]
-        
